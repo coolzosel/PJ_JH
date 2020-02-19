@@ -4394,3 +4394,12 @@ readers do not read off random characters that represent icons */
 .fas {
   font-family: 'Font Awesome 5 Free';
   font-weight: 900; }
+
+/* 마포홍대프리체, 에스코어드림lt/reg/hvy */
+  @font-face {font-family: 'MapoHongdaeFreedom';src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/MapoHongdaeFreedomA.woff') format('woff');font-weight: normal;font-style: normal; } 
+  
+  @font-face {font-family: 'S-CoreDream-3Light';src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/S-CoreDream-3Light.woff') format('woff');font-weight: normal;font-style: normal; } 
+
+  @font-face {font-family: 'S-CoreDream-4Regular';src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/S-CoreDream-4Regular.woff') format('woff');font-weight: normal;font-style: normal; } 
+
+  @font-face {font-family: 'S-CoreDream-8Heavy';src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/S-CoreDream-8Heavy.woff') format('woff');font-weight: normal;font-style: normal; } 
