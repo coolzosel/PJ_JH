@@ -1,0 +1,31 @@
+PS C:\Users\Jeonghwa Lee\Desktop\pj_jh\PJ_JH> git log
+commit e2065db6a751c590208277de99dd7acb7b297db1 (HEAD -> master, origin/master, origin/HEAD)
+Author: coolzosel <guest_2@hanmail.net>
+Date:   Thu Feb 20 23:21:18 2020 +0900
+
+    finish JMT(맛집백서)
+
+commit e5b28cf5bf77ba9e85766cf523f77c26d98d7563
+Author: coolzosel <guest_2@hanmail.net>
+Date:   Thu Feb 20 17:24:19 2020 +0900
+
+    update jmt_jh_final
+
+commit 822f63cdc5eb8a98f660a824b8f4e99e1eb96a77
+Author: coolzosel <guest_2@hanmail.net>
+Date:   Thu Feb 20 09:39:38 2020 +0900
+
+    add jmt_jh_final2
+
+commit a79efa18d679575cfe1911bc525b2d0dcd04788f
+Author: coolzosel <guest_2@hanmail.net>
+Date:   Thu Feb 20 07:52:37 2020 +0900
+
+    update jmt_jh
+
+commit aaac1255b4d4c9577d9cfa49b079a02a1ad3d6a6
+Author: coolzosel <guest_2@hanmail.net>
+Date:   Wed Feb 19 17:45:12 2020 +0900
+
+    add project 0219
+(END)
